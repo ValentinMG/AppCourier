@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppCourier</string>
+    <string name="todo">TODO</string>
+    <string name="bienvenido_a_tu_courier">Bienvenido a tu courier</string>
+    <string name="text_view_ingresar">Ingresar</string>
+    <string name="text_view_ayuda">Ayuda</string>
+    <string name="text_view_lista">LISTA DE PRODUCTOS</string>
+    <string name="text_view_titulo">PRODUCTOS</string>
+    <string name="text_view_producto1">1. Celular</string>
+    <string name="text_view_producto2">2. Billetera</string>
+    <string name="text_view_producto3">3. Linterna</string>
+    <string name="text_view_producto4">4. Lampara</string>
+    <string name="text_view_producto5">5. Perfume</string>
+    <string name="text_view_informacion">INFORMACION</string>
+    <string name="btn_text_resgistro">Registrar venta</string>
+    <string name="text_view_informacion1">Marca: Samsung Galaxy A22
+    Destino: Huanuco-Ambo</string>
+    <string name="text_view_informacion2">Marca: Tom Ford   Destino: Lima-Lurin</string>
+    <string name="text_view_informacion3">Marca: Fenix  Destino: Huancayo</string>
+    <string name="text_view_informacion4">Marca: Elvit  Destino: Junin</string>
+    <string name="text_view_foto">FOTO</string>
+    <string name="text_view_registrando">REGISTRO</string>
+    <string name="text_view_boton1">El producto se entrego satisfactoriamente sin ningun inconveniente</string>
+    <string name="text_view_boton2">Direccion incorrecta o poca informacion del producto</string>
+    <string name="text_view_boton3">El producto vino defectuoso</string>
+    <string name="btn_text_entrego1">SE ENTREGO</string>
+    <string name="btn_text_entrego2">NO SE ENTREGO</string>
+    <string name="btn_text_entrego3">PORODUCTO DEFECTUOSO</string>
+    <string name="text_view_producto">ESPECIFIQUE EL PRODUCTO ENTREGADO</string>
+    <string name="text_hint_informacion">Escriba aqui</string>
+    <string name="btn_text_registrar">REGISTRAR</string>
+
+</resources>

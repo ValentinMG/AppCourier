@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682697342080",
+    "project_id": "appcourier-cc088",
+    "storage_bucket": "appcourier-cc088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682697342080:android:88bd43a7deb8966e48ba65",
+        "android_client_info": {
+          "package_name": "com.example.appcourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682697342080-bsolgagikk3jt7vuv4qkir59mgfvjfh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBudmVyGeta0ew9voiHtpLpRzRyuO8gjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682697342080-bsolgagikk3jt7vuv4qkir59mgfvjfh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
